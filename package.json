@@ -1,6 +1,6 @@
 {
   "name": "ywemay-ra-erp-fields",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "YWEmay react-admin ERP fields collections",
   "main": "index.js",
   "repository": "git@github.com:ywemay/ywemay-ra-erp-fields.git",
@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "ywemay-erp-choices": "^1.0.0",
-    "ywemay-ra-utils": "^1.0.1"
+    "ywemay-ra-utils": "^1.0.3"
   }
 }

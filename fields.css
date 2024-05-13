@@ -1,0 +1,8 @@
+.inline-field {
+  word-wrap: none;
+  display: flex;
+  flex-direction: row;
+}
+.number-field {
+  text-align: right;
+}
