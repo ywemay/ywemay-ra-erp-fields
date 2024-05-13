@@ -1,5 +1,5 @@
 import { useRecordContext } from "react-admin"
-import { httpFilesClient } from "../lib";
+import { httpFilesClient } from "ywemay-ra-utils";
 import { useEffect, useState } from "react";
 const { VITE_API_FILES_HOST: host } = import.meta.env;
 

@@ -1,4 +1,4 @@
-import { PriceField } from ".";
+import { PriceField } from "./PriceField";
 
 export function UnitPriceField(props) {
   return <PriceField
