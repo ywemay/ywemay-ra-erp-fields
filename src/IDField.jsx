@@ -4,7 +4,7 @@ export function IDField(props) {
   return <NumberField
     source="id"
     label="common.id"
-    className="flex justify-end"
+    className="number-field"
     {...props}
     />
 }
